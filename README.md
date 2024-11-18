@@ -27,6 +27,8 @@ Welcome to my GitHub! I'm Yash Jain, a passionate **Artificial Inteliigence and 
 </div>
  
 ----
+<summary><b>HackToBerFest Badge🪶</b></summary><br>
+ <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" width="105px" height="105px"/>
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=YASHJAIN0099&theme=flat&no-frame=true&no-bg=true&margin-w=4)

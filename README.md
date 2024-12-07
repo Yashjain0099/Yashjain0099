@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Yash Jain
 
-### 🚀 Software Developer | Blockchain Enthusiast | AI & ML Explorer
+### 🚀 Software Developer | AI & ML Explorer | Blockchain Enthusiast
 
 Welcome to my GitHub! I'm Yash Jain, a passionate **Artificial Inteliigence and machine learning** developer with a keen interest in **Blockchain Development**. I strive to create impactful projects and contribute to open-source communities. I believe in continuous learning and am always exploring new technologies to enhance my skills.
 

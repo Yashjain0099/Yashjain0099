@@ -41,5 +41,5 @@ Welcome to my GitHub! I'm Yash Jain, a passionate **Artificial Inteliigence and 
 Feel free to reach out for collaborations, or if you want to discuss new ideas and projects!
 <br>
 <br>
-![](https://profile-counter.glitch.me/{YASHJAIN0099}/count.svg)
-![](https://komarev.com/ghpvc/?yashjain0099-github-yashjain0099&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=yashjain0099&color=green)
+

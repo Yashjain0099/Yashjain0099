@@ -42,4 +42,4 @@ Feel free to reach out for collaborations, or if you want to discuss new ideas a
 <br>
 <br>
 ![](https://profile-counter.glitch.me/{YASHJAIN0099}/count.svg)
-[![](https://visitcount.itsvg.in/api?id=YASHJAIN0099&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?yashjain0099-github-yashjain0099&abbreviated=true)

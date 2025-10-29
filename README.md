@@ -1,8 +1,9 @@
 # Hey there! 👋 I'm Yash Jain
 
-### AI & ML Engineer | Ex AI-intern @Infosys & @Scholarrank AI | AI-Dev-Lead @Club to Code | Gen AI - LLM | LangChain & RAG | Python | Web3 Explorer
+### AI & ML Engineer | Ex AI-intern @Infosys & @Scholarrank AI | AI-Dev-Lead @Club to Code | Gen AI - LLM | LangChain & RAG | Python | Web3 Explorer 
 
-Welcome to my GitHub! Hi, I’m Yash Jain, an AI & ML Engineer who believes in building intelligent systems that make technology more human. From training my first neural network in college labs to working as an AI Intern at Infosys and ScholarRank AI, my journey has been driven by one question “What’s next in AI?”
+
+Welcome to my GitHub! Hi,** I’m Yash Jain**, an **AI & ML Engineer** who believes in building intelligent systems that make technology more human. From training my first neural network in college labs to working as an** AI Intern at Infosys and ScholarRank AI**, my journey has been driven by one question “What’s next in AI?”
 
 As the AI Development Lead at Club to Code, I’ve had the opportunity to guide peers, host workshops, and lead projects that dive deep into Generative AI, LLMs, and RAG-based architectures. Every project I take on whether it’s optimizing a model, fine-tuning an LLM, or integrating AI with Web3 is built from scratch with one goal in mind: to solve problems that matter.
 
